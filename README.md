@@ -34,6 +34,13 @@ The dataset provides information on Battery Electric Vehicles (BEVs) and Plug-in
 - **Base MSRP:** Manufacturer's suggested retail price.
 - **Legislative District, DOL Vehicle ID, Vehicle Location, Electric Utility, 2020 Census Tract:** Additional registration details.
 
+## Electric Vehicle Dashboard
+<p align="center">
+  <h1>Electric Vehicle</h1>
+  <br>
+  <img src="https://github.com/awazbhujel/Electric-Vehicle-Analysis-Using-Python-SQL-PowerBI/blob/main/ev%20dashboard.png" alt="Electric Vehicle" title="Electric Vehicle Dashboard">
+</p>
+
 
 ## Steps for Data Analysis Process
 
