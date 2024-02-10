@@ -1,7 +1,7 @@
 # Electric Vehicle Analysis 
 
 <p align="center">
-  <img src="https://github.com/Electric-Vehicle-Analysis-Using-Python-SQL-PowerBI/ev.png"  title="hover text">
+  <img src="https://github.com/awazbhujel/Electric-Vehicle-Analysis-Using-Python-SQL-PowerBI/blob/main/ev.png"  title="hover text">
 </p>
 
 ## Project Objectives
